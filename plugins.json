@@ -6,7 +6,7 @@
           "version": "0.0.1",
             "date": "2023-11-07T12:19:10.862585Z",
             "requires": "clouddriver>=0.0.0",
-            "sha512sum": "5dc8226c1be633c6b573301de89c1b29b527ef55bb3077ae88053ee3fc0811e7efaae6c16e748d1011d69a511469ac77cf44c89e6f00ed4c0ef49fa4c5071bf7",
+            "sha512sum": "d28c0303e9bfa9d6f7877609c9e80976e1e72927467e43238c65780d3f8285844a74805d121ed8f6f1ad087fbb40601c79a8d1916d23873cfd47c5fb07fa6f10",
             "url": "https://github.com/DanielaS12/pluginRepository/releases/download/0.0.1/override-kubectl-exceptions-aws-SNAPSHOT.zip"
         }
     ]
