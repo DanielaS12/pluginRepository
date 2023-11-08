@@ -3,11 +3,11 @@
     "description": "An example of a PF4J based plugin, that provides a new stage.",
     "releases": [
         {
-          "version": "0.0.1",
+          "version": "0.0.2",
             "date": "2023-11-07T12:19:10.862585Z",
             "requires": "clouddriver>=0.0.0",
             "sha512sum": "d23d4cb6e31c7858970de2d64a03754b585aa85c2b4a415e7af9e85cc7bbdbe7df5f90c940079e09f230e2f943b401f5a7a667ed1595b51991e3b521c45dafb9",
-            "url": "https://github.com/DanielaS12/pluginRepository/releases/download/0.0.1/kubesvc-0.14.0-snapshot.uncommitted.master.9c912860.zip"
+            "url": "https://github.com/DanielaS12/pluginRepository/releases/download/0.0.2/kubesvc-0.14.0-snapshot.uncommitted.master.9c912860.zip"
         }
     ]
 }]
