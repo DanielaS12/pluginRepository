@@ -1,6 +1,6 @@
 [
     {
-      "id": "DanielaS12PluginRepo",
-      "url": "https://raw.githubusercontent.com/DanielaS12/pluginRepository/main/plugins.json"
+      "id": "DanielaS12PluginRepoAgent",
+      "url": "https://raw.githubusercontent.com/DanielaS12/pluginRepository/armory-agent/plugins.json"
     }
 ]

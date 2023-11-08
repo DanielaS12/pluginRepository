@@ -1,13 +1,13 @@
 [{
-    "id": "Armory.OverrideKubectlExceptions",
+    "id": "Armory.Kubesvc",
     "description": "An example of a PF4J based plugin, that provides a new stage.",
     "releases": [
         {
           "version": "0.0.1",
             "date": "2023-11-07T12:19:10.862585Z",
             "requires": "clouddriver>=0.0.0",
-            "sha512sum": "2bcbe55c29b19f8d64c923e1eec722d1540b485cb48c9d1573c54fb0d4996d23d9cdf57bab532970ed9ed68d2b84c9827f0ddafb5851dea398d76cb2ec759b1a",
-            "url": "https://github.com/DanielaS12/pluginRepository/releases/download/0.0.1/override-kubectl-exceptions-aws-SNAPSHOT.zip"
+            "sha512sum": "d23d4cb6e31c7858970de2d64a03754b585aa85c2b4a415e7af9e85cc7bbdbe7df5f90c940079e09f230e2f943b401f5a7a667ed1595b51991e3b521c45dafb9",
+            "url": "https://github.com/DanielaS12/pluginRepository/releases/download/0.0.1/kubesvc-0.14.0-snapshot.uncommitted.master.9c912860.zip"
         }
     ]
 }]
