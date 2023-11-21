@@ -6,7 +6,7 @@
           "version": "0.0.1",
             "date": "2023-11-07T12:19:10.862585Z",
             "requires": "clouddriver>=0.0.0",
-            "sha512sum": "2965e7d921159d2ddb645c22d84ec808275fd310e2550b36895436cd4afb4394a8fbe893f38eb9cd661214cbf835b36060147a520c940d20fa74bd6bcdbc99f0",
+            "sha512sum": "0fa45aad5b35264b1f3febcdb6bbd2453dd58165cdc6aa25022268b8f7d41c370747e31ec8aa51e730cb4b12e87b5dec7cd76a31bf67cf1c9955626f00caf333",
             "url": "https://github.com/DanielaS12/pluginRepository/releases/download/0.0.1/override-kubectl-exceptions-28142fc.dirty-SNAPSHOT.zip"
         }
     ]
